@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@nrwl/react-native": "^19.4.2",
+		"npm": "^10.8.2"
+	}
+}
