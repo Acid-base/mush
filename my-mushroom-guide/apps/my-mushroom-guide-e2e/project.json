@@ -1,0 +1,10 @@
+{
+  "name": "my-mushroom-guide-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/my-mushroom-guide-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["my-mushroom-guide"],
+  "// targets": "to see all targets run: nx show project my-mushroom-guide-e2e --web",
+  "targets": {}
+}

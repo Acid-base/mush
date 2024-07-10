@@ -1,0 +1,9 @@
+{
+  "name": "my-mushroom-guide",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/my-mushroom-guide/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project my-mushroom-guide --web",
+  "targets": {}
+}
